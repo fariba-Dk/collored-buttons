@@ -1,4 +1,5 @@
 ![alt picture of coin flip](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-BeN0gPpkpBDGRcavIl5xPUGxYUd9AvdXH6iIQhZXTCJJVKz7Oscf5iMN02W_5yQGaE&usqp=CAU)
+![alt picture of coin on edge](src="./")
 
 ```diff
 -   GAMES 
